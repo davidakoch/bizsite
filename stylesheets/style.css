@@ -100,7 +100,18 @@ ul.navSidebar li {
 }
 
 
+/*Our Story CSS*/
+.leftside{
+	float: left;
+}
 
+.footerOurstory{
+	clear: both;
+	height: 40px;
+	width; 100%;
+	border-radius: 5px;
+	background-color: #8FB8AF;
+}
 
 	
 	
