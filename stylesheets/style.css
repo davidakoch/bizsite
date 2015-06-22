@@ -1,19 +1,127 @@
+
+
+a:link {
+	color: #008080;
+}
+a:visited {
+	color: #008080;
+}
+a:hover {
+	color: #707070;
+}
+a:active{
+	color: #008080;
+	top: 2px;
+	background-color: red;
+}
+
+
 body {
 	background-color: #d0ee66;
 
 }
 
+
 .header {
 	width: 100%;
+	height: 30%;
+	background-color: #73cd30;
+	border-radius: 5px;
+
 
 }
 
+ul.nav {
+	list-style: none;
+	text-align: right;
+
+}
+
+ul.nav li{
+	display: inline-block;
+	margin: 15px 30px;
+	font-size: 15px;
+
+}
+
+ul.navSidebar {
+	list-style: none;
+}
+
+ul.navSidebar li {
+	margin: 15px 0px; 
+}
+
+<<<<<<< HEAD
 img {
 	float:left;
     margin: 15px 20px 5px 5px;
     border: 1px solid black;
     
 }
+=======
+#carts {
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 30px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.sidebar{
+	float: left;
+	width: 20%;
+	height: 300px;
+	background-color: #8FB8AF;
+	border-radius: 5px;
+	border: 3px solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+.text{
+	display: inline;
+
+}
+
+#homepageImage{
+	border: 3px solid black;
+	border-radius: 5px; 
+	float: right;
+	margin-right: 10px;
+
+}
+
+.footer{
+	height: 40px;
+	width; 100%;
+	border-radius: 5px;
+	background-color: #8FB8AF;
+
+}
+
+#email{
+	text-align: right;
+	margin-right: 10px; 
+	margin-top: 10px; 
+}
+
+
+/*Our Story CSS*/
+.leftside{
+	float: left;
+}
+
+.footerOurstory{
+	clear: both;
+	height: 40px;
+	width; 100%;
+	border-radius: 5px;
+	background-color: #8FB8AF;
+}
+
+>>>>>>> 9975b15dd994041adf10171f8f5ea152e45e5cd8
 	
 	
 .story-page{
