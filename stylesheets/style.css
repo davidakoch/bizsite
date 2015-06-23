@@ -15,9 +15,18 @@ a:active{
 	background-color: red;
 }
 
-
 body {
-	background-color: #d0ee66;
+	background-color: #9FEA63;
+}
+
+p {
+	font-style: arial;
+	color: yellow;
+}
+
+.homepage {
+	background: url("../pages/grass.jpeg");
+	background-size: cover;
 
 }
 
@@ -26,6 +35,7 @@ body {
 	width: 100%;
 	height: 30%;
 	background-color: #73cd30;
+	border: 2px solid black;
 	border-radius: 5px;
 
 
