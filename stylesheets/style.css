@@ -154,3 +154,15 @@ img {
 }
 
 
+@media (max-width:600px) {
+
+ul.nav li{
+		display: block;
+	}
+
+.sidebar{
+		display: none;
+		clearfix: both;
+	}
+
+}
