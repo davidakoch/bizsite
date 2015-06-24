@@ -115,6 +115,10 @@ ul.navSidebar li {
 	font-size: 20px;
 }
 
+li.active {
+	background-color: white;
+}
+
 
 img {
 	float:left;
