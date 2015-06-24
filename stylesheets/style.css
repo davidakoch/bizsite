@@ -18,7 +18,11 @@ a:active{
 
 body {
 	background-color: #9FEA63;
+<<<<<<< HEAD
 	margin: 0 0;
+=======
+	
+>>>>>>> 1a51545714e2946eb4f9d0cbf80b37fb5d320c79
 }
 
 p {
@@ -45,7 +49,12 @@ p {
     right: 0;
     position: fixed;
      z-index: -1;
+<<<<<<< HEAD
 	background-size: cover;
+=======
+	background-size: 100% 100%;
+
+>>>>>>> 1a51545714e2946eb4f9d0cbf80b37fb5d320c79
 
 }
 
@@ -56,6 +65,13 @@ p {
 	border: 2px solid black;
 	border-radius: 5px;
 	
+<<<<<<< HEAD
+=======
+	
+
+
+
+>>>>>>> 1a51545714e2946eb4f9d0cbf80b37fb5d320c79
 }
 
 ul.nav {
