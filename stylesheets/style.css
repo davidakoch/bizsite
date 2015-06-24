@@ -15,8 +15,10 @@ a:active{
 	background-color: red;
 }
 
+
 body {
 	background-color: #9FEA63;
+	margin: 0 0;
 }
 
 p {
@@ -41,9 +43,8 @@ p {
  	left: 0;
     bottom: 0;
     right: 0;
-    position: absolute;
+    position: fixed;
      z-index: -1;
-
 	background-size: cover;
 
 }
@@ -54,8 +55,7 @@ p {
 	background-color: #73cd30;
 	border: 2px solid black;
 	border-radius: 5px;
-
-
+	
 }
 
 ul.nav {
@@ -84,14 +84,14 @@ ul.navSidebar li {
 	font-size: 20px;
 }
 
-<<<<<<< HEAD
+
 img {
 	float:left;
     margin: 15px 20px 5px 5px;
     border: 1px solid black;
     
 }
-=======
+
 #carts {
 	font-size: 30px;
 	font-weight: bold;
