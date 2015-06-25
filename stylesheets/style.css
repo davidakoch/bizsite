@@ -28,6 +28,7 @@ body {
 p {
 	font-style: arial;
 	color: darkblue;
+	font-size: 20px;
 }
 
 .clearfix:after {
